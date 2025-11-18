@@ -1,5 +1,11 @@
 function Home(){
-    return <h1>Se amar é mudar a alma de casa, você é meu lar</h1>
+    return(
+     <>
+     <h2>Se amar é mudar a alma de casa<br/>
+      Quero que a minha viva pagando<br />
+      Aluguel no seu coração para sempre.</h2>
+     </>
+    );
 }
 
 export default Home;

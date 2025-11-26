@@ -2,11 +2,19 @@ function Home() {
   return (
     <>
       <h2>
-        Se amar é mudar a alma de casa
+        Propósito do site:
         <br />
-        Quero que a minha viva pagando
+        Ser um portfólio bem elaborado para apresentar às empresas.
         <br />
-        Aluguel no seu coração para sempre.
+        Público-alvo:
+        <br />
+        O objetivo é construir algo atrativo para o mercado.
+        <br />
+        Como:
+        <br />
+        Exibindo conhecimentos profundos e sólidos em diferentes tecnologias,
+        <br />
+        além de demonstrar versatilidade em diversas áreas.
       </h2>
     </>
   );
